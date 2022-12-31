@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh Moka and I'm a Front-End Developer.
 - 👀 I’m interested in Building front end applications
-- 🌱 I’m currently learning Spring boot.
+- 🌱 I’m currently learning NodeJS.
 - 💞️ I’m looking to collaborate on Building apps with ReactJS
 - 📫 How to reach me - Send a mail to rajeshmoka10@gmail.com
 
