@@ -2,7 +2,7 @@
 - 👀 I’m interested in Building front end applications
 - 🌱 I’m currently learning NodeJS.
 - 💞️ I’m looking to collaborate on Building apps with ReactJS
-- 📫 How to reach me - Send a mail to rajeshmoka10@gmail.com
+- 📫 How to reach me - Send a mail to rajeshmoka@icloud.com
 
 <!---
 rajeshmoka22/rajeshmoka22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
